@@ -1,1 +1,1 @@
-COGS108 Final Project Repository
+Conducted a thorough analysis of the crime in the city of Detroit. Did so by adequately preprocessing and cleaning datasets, and subsequently apply advanced statistical techniques to produce concrete results and conclusions.
